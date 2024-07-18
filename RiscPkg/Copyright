@@ -6,11 +6,6 @@ Alan Buckley (alan_baa@hotmail.com).
 
 The source package has been incorporated into the upstream sources.
 
-There is a homepage for the RISC OS Packaging Project, including
-RiscPkg and LibPkg, at:
-
-http://www.riscpkg.org/
-
 This version was built from the source in GitHub at:
 https://github.com/alanbu/LibPkg
 
